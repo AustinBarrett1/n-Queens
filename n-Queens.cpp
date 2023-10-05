@@ -1,7 +1,4 @@
 // Code made by Austin Barrett
-// Student Number: 0406580
-
-
 
 // Worked in a group with Shade Kaiser (only person I worked with) which is allowed according to the rules.
 // We did not do the same thing but much of the work is simalar. That is why some methods look simalar in function but
